@@ -18,6 +18,13 @@ gpu-programming
   - [PinePhone - PINE64](https://pine64.org/devices/pinephone/)
   - [解读指标 Mali-400MP4 GPU 指标_mali400mp2-CSDN博客](https://blog.csdn.net/qq_45763093/article/details/117550231)
   - [ARM GPU(mali-400 MP)-CSDN博客](https://blog.csdn.net/weixin_34204722/article/details/91983713)
+  - [ARM GPU(Mali G610)及其驱动、OpenGLES、性能测试相关 - ArnoldLu - 博客园](https://www.cnblogs.com/arnoldlu/p/18175082)
+  - [Mali GPU User-Space Binary Drivers](https://developer.arm.com/downloads/-/Mali%20GPUs%20User-Space%20Binary%20Drivers)
+  - [Mali 5th Gen GPU Architecture](https://developer.arm.com/downloads/-/Mali%205th%20Gen%20GPU%20Architecture)
 
-  ### Reference
-  - [Apple M1 GPU分析 | Kevin Wen's Blog](https://wenxiaoming.github.io/2021/03/27/Apple%20M1%20GPU%20Analysis/)  
+### CICD
+- [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
+
+
+### Reference
+- [Apple M1 GPU分析 | Kevin Wen's Blog](https://wenxiaoming.github.io/2021/03/27/Apple%20M1%20GPU%20Analysis/)  
