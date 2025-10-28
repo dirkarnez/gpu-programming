@@ -21,6 +21,9 @@ gpu-programming
   - [ARM GPU(Mali G610)及其驱动、OpenGLES、性能测试相关 - ArnoldLu - 博客园](https://www.cnblogs.com/arnoldlu/p/18175082)
   - [Mali GPU User-Space Binary Drivers](https://developer.arm.com/downloads/-/Mali%20GPUs%20User-Space%20Binary%20Drivers)
   - [Mali 5th Gen GPU Architecture](https://developer.arm.com/downloads/-/Mali%205th%20Gen%20GPU%20Architecture)
+  - [The Mailbox Peripheral | Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/extra/mailbox.html)
+- VideoCore
+  - [circle/addon/vc4/interface at 3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4 · rsta2/circle](https://github.com/rsta2/circle/tree/3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4/addon/vc4/interface)
 
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
