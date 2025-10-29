@@ -22,6 +22,7 @@ gpu-programming
   - [Mali GPU User-Space Binary Drivers](https://developer.arm.com/downloads/-/Mali%20GPUs%20User-Space%20Binary%20Drivers)
   - [Mali 5th Gen GPU Architecture](https://developer.arm.com/downloads/-/Mali%205th%20Gen%20GPU%20Architecture)
   - [The Mailbox Peripheral | Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/extra/mailbox.html)
+  - [mali_kbase - kernel/google-modules/gpu - Git at Google](https://android.googlesource.com/kernel/google-modules/gpu/+/refs/heads/android-gs-raviole-5.10-android13/mali_kbase)
 - VideoCore
   - [circle/addon/vc4/interface at 3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4 · rsta2/circle](https://github.com/rsta2/circle/tree/3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4/addon/vc4/interface)
 
