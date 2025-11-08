@@ -29,6 +29,9 @@ gpu-programming
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
 
+### Multi GPUs
+- [nv-legate/cupynumeric: NumPy and SciPy on Multi-Node Multi-GPU systems](https://github.com/nv-legate/cupynumeric)
+- [nv-legate/legate: The Foundation for All Legate Libraries](https://github.com/nv-legate/legate)
 
 ### Reference
 - [Apple M1 GPU分析 | Kevin Wen's Blog](https://wenxiaoming.github.io/2021/03/27/Apple%20M1%20GPU%20Analysis/)  
