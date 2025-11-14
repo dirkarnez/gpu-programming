@@ -25,6 +25,9 @@ gpu-programming
   - [mali_kbase - kernel/google-modules/gpu - Git at Google](https://android.googlesource.com/kernel/google-modules/gpu/+/refs/heads/android-gs-raviole-5.10-android13/mali_kbase)
 - VideoCore
   - [circle/addon/vc4/interface at 3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4 · rsta2/circle](https://github.com/rsta2/circle/tree/3bbfd6e31a64e5891aa12d479b2d795bfa6b1ec4/addon/vc4/interface)
+- Vivante
+  - [drivers/mxc/gpu-viv - linux-imx - Git at Google](https://coral.googlesource.com/linux-imx/+/refs/heads/251xb/drivers/mxc/gpu-viv)
+  - [android-imx6-kitkat/kernel_imx.git/3.10/0002-Solve-GPU-kernel-build-issue.patch at master · rabeeh/android-imx6-kitkat](https://github.com/rabeeh/android-imx6-kitkat/blob/master/kernel_imx.git/3.10/0002-Solve-GPU-kernel-build-issue.patch)
 
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
