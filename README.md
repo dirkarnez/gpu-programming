@@ -31,6 +31,7 @@ gpu-programming
   - [prothesman/VivanteGPU: from https://github.com/laanwj/etna_viv](https://github.com/prothesman/VivanteGPU)
   - https://bbs.aw-ol.com/assets/uploads/files/1665722589258-705bbf1c-39d1-4dd4-a7f8-18839c8e40a4-vivante.programming.viplite.api-v1.10-sw1.7.0-b-20220329.pdf
   - https://www.infineon.com/assets/row/public/documents/30/44/infineon-vivante-vglite-vector-graphics-api-user-manual-usermanual-en.pdf
+  - https://github.com/nxp-imx/linux-imx/blob/be78e49cb4339fd38c9a40019df49b72fbb8bcb7/drivers/mxc/gpu-viv/hal/kernel/gc_hal_kernel_preemption.h#L201
 
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
