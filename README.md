@@ -28,6 +28,9 @@ gpu-programming
 - Vivante
   - [drivers/mxc/gpu-viv - linux-imx - Git at Google](https://coral.googlesource.com/linux-imx/+/refs/heads/251xb/drivers/mxc/gpu-viv)
   - [android-imx6-kitkat/kernel_imx.git/3.10/0002-Solve-GPU-kernel-build-issue.patch at master · rabeeh/android-imx6-kitkat](https://github.com/rabeeh/android-imx6-kitkat/blob/master/kernel_imx.git/3.10/0002-Solve-GPU-kernel-build-issue.patch)
+  - [prothesman/VivanteGPU: from https://github.com/laanwj/etna_viv](https://github.com/prothesman/VivanteGPU)
+  - https://bbs.aw-ol.com/assets/uploads/files/1665722589258-705bbf1c-39d1-4dd4-a7f8-18839c8e40a4-vivante.programming.viplite.api-v1.10-sw1.7.0-b-20220329.pdf
+  - https://www.infineon.com/assets/row/public/documents/30/44/infineon-vivante-vglite-vector-graphics-api-user-manual-usermanual-en.pdf
 
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
