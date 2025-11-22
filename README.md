@@ -33,6 +33,11 @@ gpu-programming
   - https://www.infineon.com/assets/row/public/documents/30/44/infineon-vivante-vglite-vector-graphics-api-user-manual-usermanual-en.pdf
   - https://github.com/nxp-imx/linux-imx/blob/be78e49cb4339fd38c9a40019df49b72fbb8bcb7/drivers/mxc/gpu-viv/hal/kernel/gc_hal_kernel_preemption.h#L201
   - [STM32 定时器详细篇（基于HAL库） - 东小东 - 博客园](https://www.cnblogs.com/dongxiaodong/p/14351398.html)
+- GPU agnostic
+  - [VG-Lite General GPU — LVGL documentation](https://docs.lvgl.io/9.2/overview/renderers/vg_lite.html)
+    - [VG-Lite General GPU（VG-Lite通用GPU） — LVGL 文档](https://lvgl.100ask.net/master/details/integration/renderers/vg_lite.html)
+    - [lvgl/src/draw/vg_lite at master · Sunrisepeak/lvgl](https://github.com/Sunrisepeak/lvgl/tree/master/src/draw/vg_lite)
+    - https://www.nxp.com/docs/zh/application-note/AN14210.pdf
 
 ### CICD
 - [glmark2/.github/workflows/build.yml at master · glmark2/glmark2](https://github.com/glmark2/glmark2/blob/master/.github/workflows/build.yml)
